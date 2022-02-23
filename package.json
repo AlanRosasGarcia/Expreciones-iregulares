@@ -1,0 +1,11 @@
+{
+  "name": "expreciones-regulares",
+  "version": "1.0.0",
+  "description": "Trabajando con expreciones irregulares",
+  "main": "/src/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Rosas Garcia",
+  "license": "ISC"
+}
