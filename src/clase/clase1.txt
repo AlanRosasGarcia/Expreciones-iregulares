@@ -1,0 +1,4 @@
+
+1
+En una definición más óptima, las expresiones regulares son filtros de información que separa los datos “basura” dejando la información necesaria para poder manipular correctamente dicha información.
+Supongamos que tengo en mi nómina a proveedores de distintas zonas como Monterrey, Ciudad de México, Aguascalientes. y solo quiero consultar los proveedores de una zona específica, además quiero filtrar un tipo de producto específico. Puede ser un problema no muy dificil pero si agregamos que ya tengo inf. de hace 5 años las Expresiones regulares nos pueden optimizar mucho tiempo
